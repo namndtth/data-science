@@ -15,5 +15,5 @@ ax = fig.add_subplot(111) # create an axes artist
 
 ax.hist(x, 100) # generate a histogram of the 1000 numbers
 
-ax.set_title('Normal distribution with $\mu=0, \sigma=1$')
+ax.set_title(r'Normal distribution with $\mu=0, \sigma=1$')
 fig.savefig('matplotlib_histogram.png')
