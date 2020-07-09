@@ -1,1 +1,1 @@
-# data-science
+Multi-projects on IBM Data Science Specialization course.
